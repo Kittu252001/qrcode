@@ -1,4 +1,4 @@
-# qrcode
+# QRcode Generator
 
 A new Flutter project.
 
